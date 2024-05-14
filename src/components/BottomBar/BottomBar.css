@@ -1,0 +1,27 @@
+.bottom{
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-right: 50px;
+}
+.bottom-btn{
+    display: flex;
+    gap: 15px;
+    color: azure;
+    cursor: pointer;
+}
+
+.bg-circle-white{
+    border-radius: 50%;
+    background-color: azure;
+    color: black;
+    padding: 0 5px;
+    font-weight: 800;
+}
